@@ -1,3 +1,3 @@
-## Geno's Documentation
+# Documentation
 
 TODO:
